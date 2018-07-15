@@ -1,0 +1,10 @@
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\bin\Debug\SimpleMetronome.exe.config
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\bin\Debug\SimpleMetronome.exe
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\bin\Debug\SimpleMetronome.pdb
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.csprojResolveAssemblyReference.cache
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.Form1.resources
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.Properties.Resources.resources
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.csproj.GenerateResource.Cache
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.csproj.CoreCompileInputs.cache
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.exe
+c:\users\paweł\source\repos\SimpleMetronome\SimpleMetronome\obj\Debug\SimpleMetronome.pdb
